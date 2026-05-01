@@ -1,4 +1,4 @@
 interface:
   display_name: "Overshoot"
-  short_description: "Plan real-time Mux video intelligence"
-  default_prompt: "Use $overshoot to plan a low-latency live video intelligence workflow."
+  short_description: "Plan Overshoot realtime vision"
+  default_prompt: "Use $overshoot to design a realtime vision workflow with Overshoot streams and chat completions."

@@ -1,10 +1,10 @@
 # OSH Skills
 
-Mux-focused Codex skills for video intelligence workflows.
+Codex skills for Overshoot, Mux, video search, and moderation workflows.
 
 ## Included skills
 
-- `overshoot`: real-time Mux live/video intelligence architecture.
+- `overshoot`: Overshoot realtime vision streams, LiveKit publishing, and `ovs://` model queries.
 - `mux-ai`: Mux Robots API, captions, transcripts, chapters, key moments, and AI enrichment.
 - `supasearch`: searchable Mux video catalogs over metadata, transcripts, chapters, and moments.
 - `mux-content-moderation`: Mux Robots moderation, policy gating, thresholds, and review queues.
