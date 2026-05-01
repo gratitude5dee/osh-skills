@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mux Content Moderation"
+  short_description: "Design Mux video moderation pipelines"
+  default_prompt: "Use $mux-content-moderation to design a Mux-based video moderation and review workflow."

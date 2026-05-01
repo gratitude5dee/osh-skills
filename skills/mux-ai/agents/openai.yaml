@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mux AI"
+  short_description: "Design Mux Robots and transcript workflows"
+  default_prompt: "Use $mux-ai to design a Mux Robots API video analysis workflow."

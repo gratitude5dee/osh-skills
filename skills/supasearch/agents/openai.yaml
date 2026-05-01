@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supasearch"
+  short_description: "Build searchable Mux video catalogs"
+  default_prompt: "Use $supasearch to design video search over Mux assets, transcripts, and metadata."
